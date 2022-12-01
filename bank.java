@@ -110,7 +110,6 @@ class bank
             System.out.println("\n\n\t\t  No Account available !!!\n\n");
         }
     }
-
     static int searchAccount()
     {
         int accno;
