@@ -24,7 +24,6 @@ class login
         catch(Exception e)
         {}
     }
-
     void check()
     {
         for(int i = 2; i >= 0 ; i--)
